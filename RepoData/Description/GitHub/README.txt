@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🌫️⏳️🖥️🌐️ The official source repository for the website of the Nost Gia OS project, A Linux-based operating system for nostalgia devices. Experimental concept to let you live in the past for up to 2 hours a day.
