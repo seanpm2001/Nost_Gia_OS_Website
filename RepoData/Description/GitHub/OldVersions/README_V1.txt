@@ -1,0 +1,1 @@
+🌫️⏳️🖥️🌐️ The official source repository for the website of the Nost Gia OS project, A Linux-based operating system for nostalgia devices. Experimental concept to let you live in the past for up to 2 hours a day.
